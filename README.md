@@ -108,10 +108,4 @@ The app works on all modern browsers that support:
 - CSS Grid and Flexbox
 - CSS Custom Properties
 
-## 📝 License
 
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-Created with ❤️ as a beautiful and functional notes application.
